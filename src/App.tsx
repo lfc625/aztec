@@ -7,7 +7,7 @@ const App: React.FC = () => {
     <div className="App">
       <header className="App-header">
         {/*<img src={logo} className="App-logo" alt="logo" />*/}
-        <p>这是一个react应用</p>
+        <p>这是一个react应用</p><a href={'https://www.baidu.com'}></a>
         <a
           className="App-link"
           href="https://reactjs.org"
