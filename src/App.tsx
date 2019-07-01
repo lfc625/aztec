@@ -8,7 +8,6 @@ const App: React.FC = () => {
       <header className="App-header">
         {/*<img src={logo} className="App-logo" alt="logo" />*/}
         <p>这是一个react应用</p><a href={'https://www.baidu.com'}></a>
-          <a>如果测试失败的话</a>
         <a
           className="App-link"
           href="https://reactjs.org"
